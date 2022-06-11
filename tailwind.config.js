@@ -1,4 +1,5 @@
 const heroPatterns = require('tailwindcss-hero-patterns/src/patterns')
+/** @type {import('tailwindcss').Config} */
 
 module.exports = {
   content: ["./src/**/*.js", "./src/**/*.jsx", "./src/**/*.ts", "./src/**/*.tsx"],
