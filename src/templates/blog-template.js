@@ -1,6 +1,7 @@
 //Pagination located at the bottom of blog to navigate back or forwards...
 import React from "react"
 import { Link, graphql } from "gatsby"
+import { Disqus } from "gatsby-plugin-disqus"
 
 import Bio from "../components/bio"
 import Navigation from "../components/navigation"
@@ -10,6 +11,11 @@ import Footer from "../components/footer"
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
+
+  let disqusConfig = {
+    identifier: post.id,
+    title: post.frontmatter.title,
+  }
 
   return (
     <div location={location} class="heropattern-topography-gray-400">
@@ -35,9 +41,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       </article>
       
       <div class='mt-4'>
-          <p class="font-semibold flex w-1/2 bg-red-500 justify-center mx-auto text-white rounded-md">Blog Navigation</p>
-            <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
-
+        <p class="font-semibold flex w-1/2 bg-red-500 justify-center mx-auto text-white rounded-md">Blog Navigation</p>
+          <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
             <div>
             {previous && (
                 <Link to={previous.fields.slug} rel="prev">
@@ -53,9 +58,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 </Link>
                 )}
             </div>
-      
-            </nav>
-        </div>
+          </nav>
+      </div>
+
+      <Disqus config={disqusConfig} />
 
       <div class="w-1/2 mx-auto">
           <Bio />

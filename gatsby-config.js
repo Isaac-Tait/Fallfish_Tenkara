@@ -105,6 +105,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-disqus',
+      options: {
+        shortname: 'fallfish-tenkara',
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Fallfish Tenkara`,
