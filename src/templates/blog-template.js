@@ -60,9 +60,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             </div>
           </nav>
       </div>
-
-      <Disqus config={disqusConfig} />
-
+      {/* Disqus comments */}
+      <div class='w-1/2 mx-auto'>
+        <Disqus config={disqusConfig} />
+      </div>
       <div class="w-1/2 mx-auto">
           <Bio />
       </div>

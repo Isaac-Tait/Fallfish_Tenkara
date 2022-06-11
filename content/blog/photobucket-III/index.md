@@ -1,9 +1,10 @@
- mb-2---
+---
 title: Japan - Photobucket III (& random musings)
 description: Along with a random collage of photos from my adventures throughout Japan - this blog post includes some even more random musings...
 date: 2015-12-07T03:13:00+02:00
 tags: [Random]
 ---
+
 <div class="text-lg mt-2">
 <p class="mb-2">Be sure to check out Photobuckets <a href="https://www.fallfishtenkara.com/japan-photobucket-i/ target="_blank" rel="noopener noreferrer""  class="text-red-500 hover:bg-red-500 hover:text-white">I</a> &amp; <a href="https://www.fallfishtenkara.com/japan-photobucket-ii/ target="_blank" rel="noopener noreferrer"" target="_blank"  class="text-red-500 hover:bg-red-500 hover:text-white">II</a>.</p>
 
@@ -13,8 +14,7 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-river-pool-ogawayama.JPG" alt="Gin clear water" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-waterfall-Otodome+Waterfall.JPG
-" alt="Otodome Waterfall" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-waterfall-Otodome+Waterfall.JPG" alt="Otodome Waterfall" />
 
 <div class="mb-4"></div>
 
