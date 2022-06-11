@@ -1,0 +1,63 @@
+---
+title: Exploring Aizu
+description: Deep in the majestic interior of Fukushima Prefecture are a lifetime of rivers and adventure just waiting to be discovered...
+date: 2016-09-27T03:13:00+02:00
+tags: [Fukushima Prefecture]
+---
+<div class="text-lg mt-2">
+<p class="mb-2">After spending a few days in Nikko National Park, I was ready to leave the Silver Week crowds behind and find some solitude. So I hit the road. My destination? Tadami, a small city in western Fukushima Prefecture. I had been invited by <a href="https://www.tenkara-fisher.com/search/label/Adam%20Trahanm/content.php?234-Adam-Trahan-(about-me)" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Adam Trahan</a> to join him and <a href="https://rockandriffle.blogspot.jp" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Adam Klags</a> along with a large group of Japanese Tenkara anglers for two days in the 250+ year old Kanozu Guard House (叶津番所) . I had never met any of them before and I was excited to put some faces to names and to hopefully make some new friends too. The drive from Nikko National Park into Aizu, which is the westernmost region of Fukushima Prefecture, was pleasant with a lot of rivers to distract me from my goal of making it to the <a href="https://www.michi-no-eki.jp/michinoeki/fukushima/kirara-289/?language=1" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Kirara 289 Michi-No-Eki</a> by nightfall. When I finally pulled into the Michi-No-Eki I found the parking lot nearly filled with campers, vans, and motorcycles. Thankfully I got a spot and after a short walk to the <a href="https://www.kanko-aizu.com/kau/399/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Hello Shop</a> convenience store for some supplies I settled in for the night making ramen on my camp stove and enjoying the sound of the river flowing next to my van. That night as I slept the skies opened up and it rained hard the whole night.</p>
+
+<div class="w-8/12 mx-auto">
+<img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-kei+car.jpg" alt="Exploring through the rain..." />
+<p class="italic text-center">Somewhere in Aizu</p>
+</div>
+
+<p class="mt-2 mb-2">The next morning my excitement awoke me early. There was a valley below Mt. Taishaku (帝釈山) from which emanated a promising looking river system. I had found this area on a cartoon map hanging on the wall in the Michi-No-Eki the night before. I was itching for an adventure and this had the makings of one written all over it. After about an hour of driving I turned off the main "highway" onto a side road that quickly turned to dirt. As I continued deeper into the valley I came across car after car parked on the side of the road. They were all anglers. I was dismayed, this much pressure surely meant that the fishing would be challenging. But I had driven this far I was not going to be deterred. I found an empty turn out, donned my <a href="https://www.fallfishtenkara.com/sawanobori-footwear/"  target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">sawanobori</a> and rain gear, and plunged into woods towards the cacophony of the river.</p> 
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-waterfall.jpg" alt="Waterfalls" />
+
+<p class="mt-2 mb-2">When I arrived I noticed that the water was a tannin brown tint. The rain from last night had obviously caused some flooding. A little discouraged I deployed my rod and began fishing the spots where I thought the fish might be holding while they waited for the flood waters to subside. After a few minutes I caught sight of two Tenkara anglers up river from me, so I put my rod away and ducked into the woods aiming for a nearby tributary in hopes of finding some fish and solitude.</p>
+
+<div class="w-8/12 mx-auto">
+<img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-weir.jpg" alt="A flooding river" />
+<p class="italic text-center">The rain really picked up when I arrived so I did not get too many photos... This is a photo of the river on the way out. Definitely some big water.</p>
+</div>
+
+<p class="mt-2 mb-2">The tributary looked very promising and it was running very very cold and clear. I fished a good length of it but did not see a single fish or get one bite. I turned around when my rain jacket soaked through and I began to shiver in the 15°C temps. Back at the van and not quite ready to give up, I doubled back to a stream I had passed on the way in and fished the lower section. I was hopeful that this section would have been skipped by those heading deeper into the mountains. My intuition proved fruitful and I got three strong bites, saw several fish, and even managed to bring one to hand too!</p>
+
+<div class="w-8/12 mx-auto">
+<img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-iwana.jpg" alt="Wild/native Iwana" />
+<p class="italic text-center">I am pretty sure the native Iwana are the ones with big tails. The stocked fish do not need such powerful appendages in the ponds where they grow up. I released this guy.</p>
+</div>
+
+<p class="mt-2 mb-2">By now my clothes were completely soaked and my body, which was accustomed to the summer heat, was turning blue from the cold rain and the frigid keiryu... So I returned to my van, donned some dry clothes, and gorged myself on snacks before making my way back to civilization. Back on the road I made good time to Tadami and arrived several hours before everyone was scheduled to arrive. With some time to kill I decided to visit a river I had dreamed of fishing for awhile. The road into the area was epic (and I have driven a lot of roads in Japan - this one was extra spicy).</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-flooding+river.jpg" alt="A wonderful fishing hole." />
+
+<p class="mt-2 mb-2">Once I found a spot to park, figuring out how to get to the river proved to be very complicated. I finally resorted in falling down a cliff to get to the bottom (thank God there was a random tree that broke my fall, or else it would have been bad). Like the river early that day this river also had a tannin brown tinge which made finding fish interested in eating a lot of work. I found one. Still I had dreamed of fishing <a href="https://www.fishingvision.ch/media/tenkara-%22dou%22-with-yuzo-sebata-%5Btrailer%5D/50525" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">this</a> river ever since I had seen it on video, and the fact alone that I was there made it super special. Even if I only got one bite and scared the living sh*# out of myself, it was besides the point. If the fall into the canyon was scary the climb out was on a whole other level - surrounded by roaring waterfalls and rotten vines the ascent back to the "road" was harrowing.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-paradise.jpg" alt="Wow, just wow!" />
+
+<p class="mt-2 mb-2">After three days of living in my van and fishing, I was starting to smell like a <a href="https://tenkaratanuki.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tanuki</a>. So before I made my way to the bansho (aka Kanozu Guard House (叶津番所)) I stopped by a river next to a large rice field and took a bath with some soap. When I arrived at the bansho there were two tour busses parked out front but I braved the crowds and soon enough I spotted Sebata-san sitting at a table surrounded by a group of laughing Japanese men. I introduced myself and listened in to the conversation which had something to do with level line, kebari presentation, and Sebata-san's furled line (and it is obvious merits above level line). It was a conversation that made me really wish that my Japanese was better.</p> 
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-dinner+party.jpg" alt="The dinner party to end all dinner parties." />
+
+<p class="mt-2 mb-2">Soon enough Adam-san (Trahan) and Adam-chan (Klags) showed up with Go Ishii, <a href="https://www.facebook.com/Akebikun.keiji.ito.12?hc_ref=NEWSFEED&amp;fref=nf" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Keiji Ito</a>, and <a href="https://www.facebook.com/keiichi.okushi" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Keiichi Okushi</a>. There were so many great folks in attendance that night - all under the roof of a building almost as old as the United States and at a table over flowing with a smorgasbord of delicious Japanese foods. It did not seem real.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-takizawa-adam+trahan-resize.jpg" alt="A great photo taken by friend Adam Trahan" />
+
+
+<p class="mt-2 mb-2">Adam Trahan put together a very good report of the whole evening (plus the adventure before too that you should not miss). I will not try and compete - rather I will just share a few of my photos, encourage you to come to the Land of the Rising Sun yourself, and leave a link to Adam's post <a href="https://www.tenkara-fisher.com/2017/01/genryu-fishing-of-japan-32.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-attendees.jpg" alt="The party getting started." />
+
+<p class="mt-2 mb-2">The next morning the rain was still coming down and I abandoned any hope of squeezing in a quick Tenkara session before heading home. Instead I got a much better offer - visit Yamano-san's "Luxury Kazusao Yamano fishing tackle shop" (高級和竿 山野釣具店) in Saitama, Tokyo. He wanted to teach me how to make a bamboo rod, I emphatically agreed. After packing up I began saying good bye to everyone, I showed Sebata-san my sugegasa and told him that I was emulating him. He laughed and ducked into a back room with my sugegasa. He returned a short while later having loaded my fly patch, on the inside brim, with several of his hand tied kebari!! I have not decided yet if I will fish with them or save them for posterity. A gift like that is something very special.</p>
+
+<div class="w-8/12 mx-auto">
+<img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-bansho-sebatasan.jpg" alt="Group photo" />
+<p class="italic text-center">Photo Credit© Maruyama-san Headwaters Magazine</p>
+</div>
+
+<p class="mt-2 mb-2">The good byes were strangely difficult as I had only known the group for less than 24 hours. But I felt a strong kindred spirit between all of us. Despite varying backgrounds, language, religions, politics, and beliefs we were bonded together by the same passion. A passion that could be defined as Tenkara but it goes so much deeper than just that one word. For me this trip had been about immersing myself in a glorious natural world, enjoying the gifts given to me, expressing them through my meager talents, and then sharing them with a group of like minded individuals all struggling to put into words the majesty of the past few days spent in the keiryu of Japan.</p>
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Aizu/aizu-fukushima+prefecture-tenkara-keiryu-panorama.jpg" alt="Panorama" />
+</div>

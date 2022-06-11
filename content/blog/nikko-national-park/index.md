@@ -1,0 +1,34 @@
+---
+title: Nikko National Park
+description: Nikko National Park is a majestic park filled with volcanic mountains, waterfalls, lakes, and streams. A wonderful spot for tenkara fly fishing...
+date: 2016-09-26T03:13:00+02:00
+tags: [Tochigi Prefecture]
+---
+<div class="text-lg mt-2">
+<p class="mb-2">The city of <a href="https://www.fallfishtenkara.com/nikko/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Nikko</a>, located in Tochigi Prefecture, is quite popular with tourists. I had visited a few months ago and had a great time visiting the Nikko Tosho-gu and Futarasanjinja - but the natural beauty of Nikko was the real draw for me. The Yutaki waterfall, Ryuzu waterfall, Senjogahara wetlands, Lake Chuzenji, and Yuno Lake were absolutely beautiful and considerably less crowded (the way I like it) then Nikko city proper. Still one trip was not enough and I resolved to visit the region again for some more in-depth exploration. Well that opportunity arose when <a href="https://tenkaraguides.com/guides/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">John Vetterli</a> from <a href="https://tenkaraguides.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Tenkara Guides LLC</a> emailed me about Greg from Colorado who was traveling to Japan and wanted to squeeze in a day of Tenkara between business meetings. Fortunately, I was able to fit him into my schedule the day before I needed to be in Tadami in the Aizu Region of Fukushima Prefecture. So, we planned to meet in Nikko National Park for a day of exploring and Tenkara since it was on the way to Tadami.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-nice+day.JPG" alt="A lovely day to explore a new river system." />
+
+<p class="mt-2 mb-2">I drove up to Nikko National Park the day before both to do some scouting and to beat the Silver Week crowded highways. I arrived in the late afternoon and was able to get in a bit of fishing. One thing I quickly discovered was that the pressure was high on the streams within Nikko National Park. Still there were a decent amount of fish in the rivers, you just had to bring your A game to catch them. The streams also tended to be low gradient, which meant that there were long stretches of flat water that typically do not hold fish (at least this late in the season). That night I camped out in my <a href="https://www.fallfishtenkara.com/custom-camper-van/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Kei van</a> at the <a href="https://www.michi-no-eki.jp/michinoeki/tochigi/yunishigawa/?language=1" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Yunishigawa</a> <a href="https://www.fallfishtenkara.com/michi-no-eki/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Michi-No-Eki</a> deep in the Nikko National Park. The place was nearly deserted, there was only one other group staying that night - a very sweet couple from Switzerland Anook and Freddie. We talked about Japan and our various adventures for quite awhile before we both crawled into our kitted out camper vans for the night.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-stalking.jpg" alt="Here fishy fishy fishy" />
+
+<p class="mt-2 mb-2">The next morning I did a bit more scouting, then headed down to Kawajiyumoto Station to pick up Greg. The drive to the river from Kawajiyumoto station only took about 20 minutes and under a hazy blue sky we plunged into the frigid keiryu and began working our way upstream.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-greg+and+isaac.JPG" alt="My client Greg and me." />
+
+<p class="mt-2 mb-2">The river was mainly inhabited by Iwana, and we did see some big ones, but Iwana can be a very elusive. They have about 7° blind spot out of each eye, which is directly behind them. They are also very sensitive to shadows, colors, and movement. With a 350° range of view, you have to sneak up directly behind them. In small keiryu and genryu this is easier but in mid-sized to big rivers it can prove difficult. Wearing natural colors, staying low, and moving very stealthily when approaching a possible fish holding spot are all good techniques. Also being able to cast accurately with long lines and not laying a lot of line in the water is crucial. Still, even when you employ all these techniques flawlessly you still need a healthy dose of luck. Throughout the day we spotted close to two dozen fish but only brought one to hand.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-fish+on.JPG" alt="Fish on and big smiles" />
+
+<p class="mt-2 mb-2">But fishing is not just about the fish, it is also about the places you go and the people you go with. The river valley was gorgeous and we saw no signs of recent passage. The water, which flows from Miyoriyama, was cold, clear, and deep - despite a dryer than normal summer. Throughout Nikko National Park the lakes were very low and some streams had been reduced to a trickle as Greg and I found out when we decided to try our luck in a few other rivers. The time came to quickly for Greg to leave. I dropped him off at the train station and after a quick stop to soak my feet in a foot onsen I hit the road my destination - the Aizu Region of Fukushima Prefecture.</p>
+
+<div class="w-8/12 mx-auto">
+    <img 
+        class="rounded-lg shadow-lg" 
+        src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-weir.jpg" 
+        alt="Trying our luck below the weir" 
+    />
+    <p class="italic text-center">Photo Credit - Greg took a lot of the photos I used for this article, thank you for letting me use them Greg. I will definitely look you up next time I am in the Boulder area.</p>
+</div>
+</div>

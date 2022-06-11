@@ -1,0 +1,42 @@
+---
+title: End of the tenkara season (Part I)
+description: The end of the Tenkara mountain stream fishing season is September 30. So, I braved the madness to find some trout on the last day of the season...
+date: 2015-10-01T03:13:00+02:00
+tags: [Kanagawa Prefecture]
+---
+<div class="text-lg mt-2">
+<p class="mb-2">It was the hottest recorded summer this year in Japan, so much so that besides a brief foray into the Sierra Nevada Mountains during a visit home in June, I had forgotten what it was like to be cold. That all changed on the morning of September 30th when I stepped out of the car at the trail-head. There was a crispy bite in the air, another degree or two and I could have seen my breath. I kicked myself for not bringing my beanie but I quickly warmed up as I pedaled my bike up the road. It was a 7km ride to the end of the road and to what I was hoping would be a fish filled paradise. This area was low on my list to visit, while the river is spectacular, clear, big, and beautiful it flows right past one of the most, if not the most, popular trail in the Tanzawa Mountains - the hike to the summit of Mount Tanzawa. Due to its proximity to a very popular peak I surmised that the pressure on the stream had to be higher than almost anywhere else in this mountain range. Furthermore, this was not the creek I had intended to visit on the last day of the mountain stream fishing season. There was another blue line on the map I had been eyeing all summer. However, the night before I had awoken unexpectedly first around 0100 and again around 0300 with the distinct thought that I should not go there in the morning. When I get those unexplained inkinglings I listen. So I found myself at this trail-head on a totally different river system, on the first day of real fall weather, and the last day of the Tenkara season. The trees were just starting to turn orange, red, yellow, and brown - and there were not too many cars parked at the trail-head. So, maybe it would not be so bad afterall...</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+End+of+Season/tanzawa+mountains-japan-tenkara-landscape.JPG" alt="Gorgeous!" />
+
+<p class="mt-2 mb-2">After a long sweaty (it was still fairly humid) pedal up the steep, yet paved, mountain road I reached the end. It was rather anticlimactic, I came around a bend and the pavement just stopped... right next to the river. I leaned my bike up against a road sign and plunged into the icy cold water thankful for a chance to cool off. I set off upstream keeping a sharp eye for darting or rising fish. It did not take me to long to come upon my first weir which required some rock climbing to surmount. On top I continued upstream with no sign of fish. I attributed it to the light, the early morning sun had to be camouflaging their darting movements. It was too dark for my polarized sunglasses yet the glare on the water necessitated their use. So I rigged my <a href="https://www.fallfishtenkara.com/my-tenkara-rods/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">kieryu</a> rod and began working my way upstream fishing each promising pool thoroughly before moving on. After a while I came to another weir that required a rock climb to surmount (these <a href="https://www.fallfishtenkara.com/sawanobori-stream-climbing-shoes/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">sawanobori</a> shoes were proving to be worth their weight in gold). As I continued upstream I came across pool after pool that should have had fish in them but I was coming up empty. Not even a nibble - if there were any fish in the river I would have at least gotten one nibble or seen one fish dart to the depths.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+End+of+Season/tanzawa+mountains-japan-tenkara-strange+plant.JPG" alt="An odd yet lovely plant" />
+
+<p class="mt-2 mb-2">I was just about to give up when I came upon a narrow gorge that the creek flowed through. The gorge constricted the further back it went to maybe a meter wide, it was about 15 meters long, and at the back there was a five meter tall waterfall. There were boulders jammed in the gorge, near the top, the size of microwaves. There was no way to continue on upstream except by climbing through and up this gorge. From far away it did not look possible. The pool in the gorge was deep, very very deep - if I had to guess I would say seven meters. As I eyeballed the gorge from the shallows I spotted a possible route:</p>
+
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Wade out in a meter or so of water before climbing up the cliff on the river's right side to a ledge</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Shuffle across the ledge and then down climb the other side where I could stand on a small shelf just under the water line</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Leap to a log protruding from the depths of the pool like a half sunk ship</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Another leap to the opposite side to another small shelf (barely wide enough for two feet) just under the waterline</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Negotiate a slightly overhanging traverse with good feet but no hands through a seeping and soaked section of rock</p>
+
+From this point the hard part would start:
+
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> I would then need to lean out and grab the opposite side of the gorge</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Begin shimmying up and deeper into the gorge</p>
+<p class="mt-2 mb-2 pl-4"><span role="img" aria-label=“pushpin emoji”>&#128205;</span> Grab onto the first chockstone wedged in the gorge and mantle on top</p>
+
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+End+of+Season/tanzawa+mountains-japan-tenkara-gorge.JPG" alt="The narrow barely surmountable gorge" />
+
+<p class="mt-2 mb-2">If I fell the worst thing that would happen would be a very cold swim. It was worth a shot and so I set off. It was a well thought out plan but I forgot to take into account the fatigue that would set in from thrashing my way up a slimy and wet chimney. Right when I grabbed the chockstone I missed the target for my left foot and my it skated off the algae covered rock. If I had not had grabbed the chockstone when I had I would have free-fallen into the pool five meters below. The mantel onto the chockstone was not very graceful but I made it. Surely I was the first person crazy enough to negotiate this obstacle this season, there had to be fish up above the gorge. I re-rigged my <a href="https://www.fallfishtenkara.com/my-tenkara-rods/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">kieryu rod </a>and began fishing my way upstream. Unfortunately my impeccable logic turned out to not be as faultless as I had hoped - even above the perfect "angler blockade" there were no fish. Dismayed I turned around, I still had a long way to go to get back to the car. I was not going to let this be the last fishing trip of the season.</p>
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+End+of+Season/tanzawa+mountains-japan-tenkara-water+everywhere.JPG" alt="A mountain anglers paradise minus the fish though..." />
+
+<p class="mt-2 mb-2">Little did I know that the next keiryu I visited would be more adventurous than this one....</p>
+
+<p class="mt-2 mb-2">You can read all about the next half of the day's adventures <a href="https://www.fallfishtenkara.com/bear-creek-part-ii/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
+
+<p class="mt-2 mb-2 italic text-center font-semibold text-gray-400">To see more photos, check out this Google Photos Album <a href="https://photos.app.goo.gl/dPiAQznmorHUs7JA9" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
+</div>
