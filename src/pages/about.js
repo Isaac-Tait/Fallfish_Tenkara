@@ -73,7 +73,7 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
                 </div>
 
                 <p class="ml-2 mt-4 font-semibold">Check out my <a href="https://www.fallfishtenkara.com/my-tenkara-rods" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"> tenkara rods</a> for a breakdown of the rods I used in Japan.</p>
-                <p class="ml-2 mt-4 font-semibold">Be sure to take a look at my vitae of <a href="https://www.fallfishtenkara.com/recent-press" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Recent Press</a>.</p>
+                <p class="ml-2 mt-4 font-semibold">Be sure to take a look at my newest fishing site <a href="https://iloveto.fish" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">I Love To Fish</a> to read all about my latest fishing ventures.</p>
               </div>
             
               <div class="bg-white text-center">
