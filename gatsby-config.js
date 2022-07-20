@@ -22,7 +22,7 @@ const BlogQuery = `
   }
 `
 
-const queries = [
+const _queries = [
   {
     query: BlogQuery,
     transformer: ({ data }) => data.allMarkdownRemark.nodes, }
@@ -104,12 +104,6 @@ module.exports = {
     ],
   },
   plugins: [
-    {
-      resolve: 'gatsby-plugin-disqus',
-      options: {
-        shortname: 'fallfish-tenkara',
-      }
-    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

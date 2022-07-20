@@ -7,6 +7,7 @@ import Bio from "../components/bio"
 import Navigation from "../components/navigation"
 import Seo from "../components/seo"
 import Footer from "../components/footer"
+import Comments from "../components/comments"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -39,6 +40,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </div>
         
       </article>
+
+      <div className="w-11/12 mx-auto">
+        <Comments />
+      </div>
       
       <div class='mt-4'>
         <p class="font-semibold flex w-1/2 bg-red-500 justify-center mx-auto text-white rounded-md">Blog Navigation</p>
