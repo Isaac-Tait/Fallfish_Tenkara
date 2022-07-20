@@ -5,27 +5,27 @@ date: 2016-03-07T03:13:00+02:00
 tags: [Akita Prefecture, Iwate Prefecture]
 ---
 <div class="text-lg mt-2">
-<p class="mb-2">The Japanese word 幽玄 (pronounced Yūgen), loosely translated means "subtle and profound" but is used in a sentence to express the sudden "awareness of the universe that triggers emotional responses that are too mysterious and deep for <a href="https://theodysseyonline.com/le-moyne/11-beautiful-untranslatable-japanese-words/221351" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">words</a>." It is a beautiful word and perfectly describes the four days I spent last week skiing, travelling, and eating my way through Iwate and Akita Prefectures of northern Japan.</p>
+<p class="mb-2">The Japanese word 幽玄 (pronounced Yūgen), loosely translated means "subtle and profound" but is used in a sentence to express the sudden "awareness of the universe that triggers emotional responses that are too mysterious and deep for <a href="https://theodysseyonline.com/le-moyne/11-beautiful-untranslatable-japanese-words/221351" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">words</a>." It is a beautiful word and perfectly describes the four days I spent last week skiing, traveling, and eating my way through Iwate and Akita Prefectures of northern Japan.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331505/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_1_m2vz75.jpg" alt="ski resort" />
 
 <p class="mt-2 mb-2 font-semibold">Day One</p>
 
 <p class="mt-2 mb-2">My alarm went off at the not so pleasant hour of 1:15am. I stumbled into the kitchen and flipped on the coffee maker while simultaneously checking the weather report for the next few days on my iPhone. My gear was piled by the door and after a quick breakfast of eggs and hashbrowns I shuttled the gear downstairs and into the back of my <a href="https://www.fallfishtenkara.com/custom-camper-microvan/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">car</a>. I met my friend Junpei and co-guide at the front of our "office" and we quickly shuffled my gear into his car. After a quick stop at a Lawson's for some more coffee, we got on the highway and began our 7+ hour drive up to Iwata Prefecture.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331505/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-buddies_iklilj.jpg" alt="lift selfie" />
 
 <p class="mt-2 mb-2">When we arrived at our ryokan <a href="https://www.vijp.com/irihataonsen/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Irihata Onsen</a> around 9am the weather had gone from sunny to very stormy. The hills above the ryokan were covered in hugemongous cornices, I have not seen cornices that big before. I was glad to be skiing at a resort that day as the wind loading on almost all of the aspects was a tad intimidating (not to mention the very steep looking tree covered hills). Once we checked in at the ryokan we drove up the road to the resort Geto Kogen. This resort is massive and we were one of about 50 cars (most of which belonged to the staff) in the parking lot.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331505/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_1-view_rghq1u.jpg" alt="watching it rain in the valley below" />
 
 <p class="mt-2 mb-2">As we were getting suited up the skies opened up and rain began to fall quite heavily. We were a little discouraged but decided to head out anyways. Sitting in the gondola on the way up we watched as the rain turned into big fat snowflakes. The top of the mountain was fluffy powder while the bottom was slushy mashed potatoes. The weather was projected to get colder throughout the day though so we kept playing, looking for fun lines in the trees.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331505/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_1-dining_room_sahc7r.jpg" alt="taking a break" />
 
 <p class="mt-2 mb-2">As the day went on the weather got colder and the winds picked up, at the end of the day we were skiing in white out conditions on ice. It was spicy.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331505/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_1-dinner_o1fthw.jpg" alt="lunch" />
 
 <p class="mt-2 mb-2">The view from our room of the Getogawa! I was kicking myself for not bringing my Tenkara rod, especially because it was March 1 or opening day for fishing in Japan.</p>
 
