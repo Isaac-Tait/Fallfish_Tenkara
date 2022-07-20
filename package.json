@@ -8,12 +8,11 @@
     "url": "https://github.com/Isaac-Tait/Fallfish_Tenkara_v2/issues"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^1.35.3",
+    "@giscus/react": "^2.0.6",
     "@tailwindcss/typography": "^0.5.2",
     "algoliasearch": "^4.13.1",
     "gatsby": "^4.16.0",
     "gatsby-awesome-pagination": "^0.3.8",
-    "gatsby-plugin-disqus": "^1.2.4",
     "gatsby-plugin-feed": "^4.16.0",
     "gatsby-plugin-gatsby-cloud": "^4.16.0",
     "gatsby-plugin-google-analytics": "^4.16.0",
@@ -35,6 +34,7 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-instantsearch-dom": "^6.28.0",
+    "slick-carousel": "^1.8.1",
     "tailwindcss-hero-patterns": "^0.0.1",
     "typeface-merriweather": "^1.1.13",
     "typeface-montserrat": "^1.1.13"

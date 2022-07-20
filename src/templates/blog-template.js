@@ -1,21 +1,16 @@
 //Pagination located at the bottom of blog to navigate back or forwards...
 import React from "react"
 import { Link, graphql } from "gatsby"
-import { Disqus } from "gatsby-plugin-disqus"
 
 import Bio from "../components/bio"
 import Navigation from "../components/navigation"
 import Seo from "../components/seo"
 import Footer from "../components/footer"
+import Comments from "../components/comments"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const { previous, next } = pageContext
-
-  let disqusConfig = {
-    identifier: post.id,
-    title: post.frontmatter.title,
-  }
 
   return (
     <div location={location} class="heropattern-topography-gray-400">
@@ -39,6 +34,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         </div>
         
       </article>
+
+      <div className="w-11/12 mx-auto">
+        <Comments />
+      </div>
       
       <div class='mt-4'>
         <p class="font-semibold flex w-1/2 bg-red-500 justify-center mx-auto text-white rounded-md">Blog Navigation</p>
@@ -59,10 +58,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 )}
             </div>
           </nav>
-      </div>
-      {/* Disqus comments */}
-      <div class='w-1/2 mx-auto bg-slate-100'>
-        <Disqus config={disqusConfig} />
       </div>
       <div class="w-1/2 mx-auto">
           <Bio />
