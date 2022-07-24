@@ -7,6 +7,6 @@ This site has been a labor of love spanning six plus years. I am migrating from 
 
 Check out the live site at: https://fallfishtenkara.com
 
-Left off at http://localhost:8001/yugen/ missing photos need to be added
+Left off at http://localhost:8001/grayling/ missing photos need to be added
 
 February - July 2016 posts are missing ALL photos

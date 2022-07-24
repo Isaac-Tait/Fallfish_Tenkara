@@ -35,15 +35,15 @@ tags: [Akita Prefecture, Iwate Prefecture]
 
 <p class="mt-2 mb-2">However, the howling wind had grown to ferocious velocities and consequently all of the resorts in Iwate Prefecture were closed except for <a href="https://www.snowjapan.com/japan-ski-resorts/iwate/shizukuishi/shizukuishi" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Shizukuishi</a> So after a hearty breakfast and a nice soak in the <a href="https://www.fallfishtenkara.com/onsens/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">onsen</a> we packed up the car and drove north to the resort above Gosho Lake.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-shrine_and_lake_lnrjir.jpg" alt="shrine" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-shrine_ctyopk.jpg" alt="snow" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-tori_gate_qacmtn.jpg" alt="lake" />
 
 <p class="mt-2 mb-2">Shizukuishi is a bit of an odd resort. Ten years ago they closed several lifts including one that goes to the top of the mountain but left some of the lower and mid mountain lifts open. There is also a massive 40 person gondola that leaves the bottom of the mountain every 20 minutes but it only goes part way up the mountain. Once you disembark the gondola you have to take two other separate doubles to get to the high point. The first double takes you over some extremely low angle terrain.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2_vvtl8b.jpg" alt="second double on the way to the top" />
 
 <p class="mt-2 mb-2">You find some spectacular terrain though on the last double to the top. It was in those trees that I skied the deepest powder I have ever encountered in my life. The average was waist, with pockets of neck deep snow. I did not want the day to end. However, we had only purchased half day lift tickets because we had quite the long drive to get to our next hotel for nights two and three.</p>
 
@@ -51,39 +51,39 @@ tags: [Akita Prefecture, Iwate Prefecture]
 
 <p class="mt-2 mb-2">On the banks of Lake Tazawa we came across by far the most beautiful shrine I have seen in Japan, the Gozanoishi Shrine.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-lake_qrv2pc.jpg" alt="Lake Gosho" />
 
 <p class="mt-2 mb-2">As we drove into Akita Prefecture the snowfall picked up in intensity.</p>
 
 <p class="mt-2 mb-2">After stopping in at an onsen <span class="underline">in</span> the Animaeda Train Station we drove deep into the mountains above Lake Moriyoshishikimi. After driving for what seemed like an hour up a very snowy mountain road we arrived at the Telemark Sanso Moriyoshi a budget Japanese inn deep in the Angel Forest. That night we had a phenomenal dinner of shark and whale soup (both of which I had never had before).</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-diner_q6fpc5.jpg" alt="whale soup" />
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331508/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4-onsen_qjrskp.jpg" alt="onsen" />
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331507/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_3-sunset_and_clouds_cav22j.jpg" alt="sunset" />
 
 <p class="mt-2 mb-2 font-semibold">Day Three</p>
 
 <p class="mt-2 mb-2">It had snowed most of the night and we awoke on day three to a veritable winter wonderland. It was also the coldest day of our trip coming in at around -12°C without windchill! I accidentally left my camera in the mama-san's van when we were dropped off at Ani Ski Resort. So, I unfortunately did not get too many photos of the trip.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331507/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_3_bozlha.jpg" alt="ani resort" />
 
 <p>Day three of our four day trip was spectacular. It was also my first ski tour in Japan! I never want to leave</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331508/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_3-sunset_wrakzv.jpg" alt="winter wonderland" />
 
 <p class="mt-2 mb-2">The tour was absolutely spectacular. I cannot even begin to find the words to describe how beautiful, peaceful, pulchritudinous, lovely, and snowy this slice of heaven, that is Mount Moriyoshi, was. So I will not try. If you ever find yourself in the region during winter make sure you visit this mountain - you will not regret it. Our guide, Yoshino, who lives at the Telemark Sanso Moriyoshi inn was awesome, competent, and a well prepared guide. When we realized that we had forgotten our lunches at the inn he graciously gave up his entire lunch so that we could eat.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331506/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_2-planning_aq1q1h.jpg" alt="scoping out tomorrow's terrain" />
 
 <p class="mt-2 mb-2">After returning from the tour we headed down into town back to the onsen at the Animaeda Train station. When we got back the mama-san had cooked up a delicious dinner of hatahata (an ocean going fish).</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331507/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_3-delicious_lrqkjz.jpg" alt="hatahata" />
 
 <p>Then she taught me how to make rice balls for the soup.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331508/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_3-learning_to_make_soba_rvfgjq.jpg" alt="making rice balls" />
 
 <p class="mt-2 mb-2">After dinner we sipped on whisky chilled with ice candy (aka icicles from the trees that we skied past earlier in the day), snow, and clear mountain spring water and sang Japanese and American songs. It was a night I will not soon forget.</p>
 
@@ -91,11 +91,16 @@ tags: [Akita Prefecture, Iwate Prefecture]
 
 <p class="mt-2 mb-2">With a 12+ hour drive to get home we did not have much time for skiing but our guide insisted that he knew of a place to take us for a quick tour so we acquiesced. Soon we were laughing with glee as we skied between stands of Japanese cedar trees into a massive clear cut filled with several meters of fresh snow. It was the perfect ending to a perfect trip.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331509/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4_eqlif6.jpg" alt="scoping terrain" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331508/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4-our_guide_ef9jqw.jpg" alt="our guide and me" />
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331509/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4-skiing_home_ttzopo.jpg" alt="headed home" />
 
 <p class="mt-2 mb-2">On the way back home we drove along the coast of the Sea of Japan. It was my first time seeing the Sea of Japan.</>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331509/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4-rest_stop_mmsdle.jpg" alt="michi no eki" />
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mt-2" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1658331508/Fallfish%20Tenkara/Yugen/yugen-japan-skiing-tenkara-day_4-sea_of_japan_uigtvr.jpg" alt="sea of japan" />
+
 </div>
