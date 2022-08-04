@@ -23,11 +23,7 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1652024244/Fallfish%20Tenkara/camper-van/camper_van-kei_van-custom_interior-van_life-tenkara_bum-ski_bum-japow-construction_frgd2d.jpg" alt="half way done" />
 
-<p class="mt-2 mb-2">Then over two days (I miscalculated my material needs and had to make another run to Homes) I created the first components of my camper interior.</p>
-
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1652024244/Fallfish%20Tenkara/camper-van/camper_van-kei_van-custom_interior-van_life-tenkara_bum-ski_bum-japow-construction_frgd2d.jpg" alt="getting closer" />
-
-<p class="mt-2 mb-2">And here is the (mostly) finished creation! I built it as two modules to make it easier to remove them (and because the battery compartment is under the non-factory carpet).</p>
+<And class="mt-2 mb-2">Then over two days (I miscalculated my material needs and had to make another run to Homes) I created the first components of my camper interior. And here is the (mostly) finished creation! I built it as two modules to make it easier to remove them (and because the battery compartment is under the non-factory carpet).</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1652024245/Fallfish%20Tenkara/camper-van/camper_van-kei_van-custom_interior-van_life-tenkara_bum-ski_bum-japow-in_the_van_w8ushi.jpg" alt="outstanding" />
 
