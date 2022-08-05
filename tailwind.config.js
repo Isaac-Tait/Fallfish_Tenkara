@@ -36,7 +36,7 @@ module.exports = {
     },
   },
   plugins: [
-    require('tailwindcss'),
+    require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/typography'),
     require('tailwindcss-hero-patterns')
   ],

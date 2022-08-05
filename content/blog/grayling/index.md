@@ -20,7 +20,9 @@ tags: [Britain]
 
 <p class="mt-2 mb-2">The next morning, still a bit jet lagged, we set out from the Chinley Station to meet up with our guide. As we peered out the window of the train scenes from a fairy tale drifted lazily by. The sky was a crisp blue dotted with wispy white clouds, there were patches of snow tucked in the clefts of the tallest hills that were coated in green grass and grazing sheep, and spectacular rivers carved through the magnificent landscape interspersed with trees, hedgerows, and quaint villages. At the Dore and Totley train station John Pearson collected us and we hopped in his car for the short drive to the river. Along the way we discussed all manner of topics ranging from our various expeditions in Japan, spawning cycles of the native fish, flies, and the river that we were to be fishing that day - the River Don.
 
-<iframe src="https://player.vimeo.com/video/25372131?h=e9070eaf08" width="500"></iframe>
+<div class="aspect-w-16 aspect-h-9">
+    <iframe src="https://player.vimeo.com/video/25372131?h=e9070eaf08" width="500" height="350" />
+</div>
 
 <p class="mt-2 mb-2"><a href="https://vimeo.com/25372131" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Urban Flyfishing</a> The river that we would be fishing in Sheffield, UK.</p>
 
