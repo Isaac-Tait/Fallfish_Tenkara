@@ -7,10 +7,7 @@ function Slider() {
     const [index, setIndex] = useState(0)
     const { allFile } = useStaticQuery(
         graphql`{
-  allFile(
-    sort: {fields: name, order: DESC}
-    filter: {relativeDirectory: {eq: "sliders"}}
-  ) {
+  allFile(sort: {name: DESC}, filter: {relativeDirectory: {eq: "sliders"}}) {
     edges {
       node {
         id
@@ -21,8 +18,7 @@ function Slider() {
       }
     }
   }
-}
-`)
+}`)
 
     const length = allFile.edges.length - 1
     const handleNext = () =>
