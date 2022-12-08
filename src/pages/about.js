@@ -69,7 +69,14 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
                 <p class="ml-2 mt-4">See you on the river!</p>
 
                 <div class="w-2/3 mx-auto mt-2">
-                  <iframe title="tenkara usa interviews Isaac Tait" width="560" height="315" src="https://www.youtube.com/embed/EDhEnS7-xa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe 
+                    title="tenkara usa interviews Isaac Tait" 
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/EDhEnS7-xa4" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
                 </div>
 
                 <p class="ml-2 mt-4 font-semibold">Check out my <a href="https://www.fallfishtenkara.com/my-tenkara-rods" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"> tenkara rods</a> for a breakdown of the rods I used in Japan.</p>
