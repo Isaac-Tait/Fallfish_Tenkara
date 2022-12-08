@@ -62,6 +62,8 @@ const Links = ({ location }) => {
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
             <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl"> 
+            <p className="ml-2 mb-4">Sadly the links on this page have been lost, misplaced, or they have been turned off by the owner(s). Sorry for the inconvenience. A lot of this information was compiled in 2016/17 so it has gone the way of the dodo, or the passenger pigeon, or the American Chestnut, or the ~ well you get the idea.</p>
+            <hr />
             <p class="ml-2 mb-4">A locals website with all sorts of info on fish and rivers within Japan</p>
             <p class="ml-2 mb-4">Toll Calculator for Drivers in Japan (Hint: it is all in Japanese so I suggest having Google Maps open in another tab so that you can compare)</p>
             <p class="ml-2 mb-4">Information on ETC Pass for foreigners Japan ETC Toll Roads Pass</p>
