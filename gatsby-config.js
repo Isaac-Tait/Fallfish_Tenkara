@@ -201,6 +201,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-postcss`,
-    "@netlify/plugin-gatsby",
+    "gatsby-plugin-netlify",
   ],
 }
