@@ -1,6 +1,6 @@
-require('dotenv').config({
+require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
-});
+})
 
 const BlogQuery = `
   {
@@ -25,8 +25,9 @@ const BlogQuery = `
 const _queries = [
   {
     query: BlogQuery,
-    transformer: ({ data }) => data.allMarkdownRemark.nodes, }
-];
+    transformer: ({ data }) => data.allMarkdownRemark.nodes,
+  },
+]
 //Update:
 module.exports = {
   siteMetadata: {
@@ -40,67 +41,67 @@ module.exports = {
     social: {
       twitter: `Isaac_Tait_83`,
     },
-    linkOne: 'Japanese 日本語',
-    linkTwo: 'Tenkara Shops',
-    linkThree: 'Keiryu Fishing Season',
-    linkFour: 'Fishing License',
-    linkFive: 'Toll Roads',
-    linkSix: 'Links',
-    linkSeven: 'About',
-    linkEight: 'Tenkara 101',
-    linkNine: 'Tags',
-    linkTen: 'Thank You',
-    linkEleven: 'Search',
+    linkOne: "Japanese 日本語",
+    linkTwo: "Tenkara Shops",
+    linkThree: "Keiryu Fishing Season",
+    linkFour: "Fishing License",
+    linkFive: "Toll Roads",
+    linkSix: "Links",
+    linkSeven: "About",
+    linkEight: "Tenkara 101",
+    linkNine: "Tags",
+    linkTen: "Thank You",
+    linkEleven: "Search",
 
-      menuLinks: [
-        {
-          name: "Home",
-          link: "/"
-        },
-        {
-          name: "Japanese 日本語",
-          link: "/learning-japanese",
-        },
-        {
-          name: "Tenkara Shops",
-          link: "/tenkara-fishing-stores",
-        },
-        {
-          name: "Keiryu Fishing Season",
-          link: "/keiryu-fishing-season",
-        },
-        {
-          name: "Fishing License",
-          link: "/japanese-fishing-license",
-        },
-        {
-          name: "Toll Roads",
-          link: "/toll-roads",
-        },
-        {
-          name: "Links",
-          link: "/links",
-        },
-        {
-          name: "About",
-          link: "/about"
-        },
-        {
-          name: "Tenkara 101",
-          link: "/tenkara-101"
-        },
-        {
-          name: "Prefectures",
-          link: "/tags",
-        },
-        {
-          name: "Thank You",
-          link: "/thank-you",
-        },
-        {
-          name: "Search",
-          link: "/search",
-        },
+    menuLinks: [
+      {
+        name: "Home",
+        link: "/",
+      },
+      {
+        name: "Japanese 日本語",
+        link: "/learning-japanese",
+      },
+      {
+        name: "Tenkara Shops",
+        link: "/tenkara-fishing-stores",
+      },
+      {
+        name: "Keiryu Fishing Season",
+        link: "/keiryu-fishing-season",
+      },
+      {
+        name: "Fishing License",
+        link: "/japanese-fishing-license",
+      },
+      {
+        name: "Toll Roads",
+        link: "/toll-roads",
+      },
+      {
+        name: "Links",
+        link: "/links",
+      },
+      {
+        name: "About",
+        link: "/about",
+      },
+      {
+        name: "Tenkara 101",
+        link: "/tenkara-101",
+      },
+      {
+        name: "Prefectures",
+        link: "/tags",
+      },
+      {
+        name: "Thank You",
+        link: "/thank-you",
+      },
+      {
+        name: "Search",
+        link: "/search",
+      },
     ],
   },
   plugins: [
@@ -109,8 +110,8 @@ module.exports = {
       options: {
         name: `Fallfish Tenkara`,
         start_url: `/`,
-        icon: `content/assets/FfT_Logo_Thumbnail.png`
-      }
+        icon: `content/assets/FfT_Logo_Thumbnail.png`,
+      },
     },
     {
       resolve: `gatsby-plugin-page-creator`,
@@ -129,8 +130,8 @@ module.exports = {
       options: {
         name: `Fallfish Tenkara`,
         start_url: `/`,
-        icon: `content/assets/FfT_Logo_Thumbnail.png`
-      }
+        icon: `content/assets/FfT_Logo_Thumbnail.png`,
+      },
     },
     `gatsby-plugin-image`,
     {
@@ -192,7 +193,7 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     {
-    resolve: `gatsby-plugin-gatsby-cloud`,
+      resolve: `gatsby-plugin-gatsby-cloud`,
       options: {
         allPageHeaders: [
           "Strict-Transport-Security: max-age=31536000; includeSubDomains; preload",
@@ -200,5 +201,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-postcss`,
+    "@netlify/plugin-gatsby",
   ],
 }
